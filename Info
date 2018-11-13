@@ -1,0 +1,9 @@
+
+
+https://howtodoinjava.com/spring-boot2/security-rest-basic-auth-example/
+
+mvn clean install -DskipTests
+
+http://localhost:8080/employees/  (we can't access it with out giving username and password)
+username : admin
+password : password
